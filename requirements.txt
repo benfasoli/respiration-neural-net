@@ -3,5 +3,5 @@ matplotlib
 pandas
 scikit-learn
 setuptools>=41.0.0
-tensorflow==2.0.0-rc2
+tensorflow==2.5.1
 # tensorflow-gpu==2.0.0-rc2
